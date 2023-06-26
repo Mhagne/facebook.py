@@ -1,2 +1,5 @@
 # facebook.py
-crack password facbook
+crack password facbook.py
+
+
+## apt install python
