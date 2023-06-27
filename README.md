@@ -1,5 +1,17 @@
-# facebook.py
+# crack.passwod 
 crack password facbook.py
-
-
-## apt install python
+  /$$$$$$
+       /$$__  $$
+      | $$  \__//$$   /$$
+      |  $$$$$$|  $$ /$$/
+       \____  $$\  $$$$/
+       /$$  \ $$ >$$  $$
+      |  $$$$$$/\$$/\$$
+       \______/  \__/
+       
+   [Brute Force Options]
+  -----------------------
+  instagram: mhagne_mhomd
+    Welcome Mr. Hacker
+  -----------------------
+  
